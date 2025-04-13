@@ -2,9 +2,9 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on Quality Testing
-- 📫 How to reach me ...
+- 📫 How to reach me ...ajaygodbole@yandex.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm not funny
 
 <!---
 ajaygodbolehotmail/ajaygodbolehotmail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
